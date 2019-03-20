@@ -18,7 +18,7 @@ public class UserServisTest {
   }
 
   @Test
-  public void test_get_users() {
+  public void test_get_usersd() {
 
   }
 }
