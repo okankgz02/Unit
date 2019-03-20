@@ -7,6 +7,7 @@ import java.util.List;
 
 public class UserServisImpl {
     private UserRepositoryImpl userRepositoryImpl;
+
     Kullanici kullanici=new Kullanici("okan","akgöz");
 
 
